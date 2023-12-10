@@ -3,7 +3,7 @@
 # 👩‍💻 TahsinAyman
 
 <div align="center">
-  <img src="https://i.imgur.com/nUQhspz.jpeg" alt="TahsinAyman" style="border-radius: 50%; width: 200px; height: 200px">
+  <img src="https://i.imgur.com/nUQhspz.jpeg" alt="TahsinAyman" style="border-radius: 5000px; width: 200px; height: 200px">
 </div>
 
 <div align="center">
