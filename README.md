@@ -3,10 +3,6 @@
 # 👩‍💻 TahsinAyman
 
 <div align="center">
-  <img src="https://i.imgur.com/nUQhspz.jpeg" alt="TahsinAyman" style="border-radius: 5000px; width: 200px; height: 200px">
-</div>
-
-<div align="center">
   ✉️ Email: mail4tahsin@gmail.com <br>
   
   🔗 LinkedIn: [linkedin.com/in/tahsinayman](https://linkedin.com/in/tahsinayman) | 🐙 GitHub: [github.com/TahsinAyman](https://github.com/TahsinAyman)
