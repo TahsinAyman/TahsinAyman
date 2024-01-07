@@ -40,7 +40,7 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
   - 🛠️ Technologies Used: Angular, Laravel, MySQL
 - **Full Stack Ltd**
   - 📋 Description: A informative page for a organization
-  - 🛠️ Technologies Used: Angular
+  - 🛠️ Technologies Used: Angular (Old), [CDR](https://npmjs.com/package/create-cdr-app)
 
 ## 💻 Skills
 
