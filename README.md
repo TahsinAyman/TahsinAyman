@@ -2,7 +2,7 @@
 
 # TahsinAyman
 
-![Contr IMage](https://raw.githubusercontent.com/tombare/tombare/main/contributions.svg)
+![Contr IMage](./contributions.svg)
 
 <div align="center">
   ✉️ Email: mail4tahsin@gmail.com <br>
