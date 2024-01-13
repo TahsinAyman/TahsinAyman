@@ -21,12 +21,6 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 ## 🧑‍🎓 Students
 - [Asadunnobie Ishaan](https://github.com/AsadunnobieIshaan/)
 
-## 🎓 Education
-
-- **Shamsul Haque Khan School And College**
-  - 🎓 Degree: Class 7
-  - 📅 Graduation Date: 2023
-
 ## 💼 Work Experience
 
 - **Full Stack Academy | Full Stack Developer | Dhaka, Bangladesh |**
