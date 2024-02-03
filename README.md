@@ -168,7 +168,7 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 ## 📞 References
 
 ## Socials
-[![badge](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Tahsin.Ayman)
-[![badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahsin-ayman/)
-[![badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahsinAyman)
-[![badge](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4tahsin@gmail.com)
+<a href="https://www.facebook.com/Tahsin.Ayman" target="_blank">![badge](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/tahsin-ayman/" target="_blank">![badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/TahsinAyman" target="_blank">![badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="mailto:mail4tahsin@gmail.com" target="_blank">![badge](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
