@@ -173,8 +173,8 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 - 🏆 **Problem Solving (Intermediate) | Hackerrank | 11 March 2022**
 - 🏆 **Python (Basic) | Hackerrank | 08 March 2022**
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/TahsinAyman)
 ![TahsinAyman's Stats](https://github-readme-stats.vercel.app/api?username=TahsinAyman&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
+![TahsinAyman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinAyman&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
 
 ## 📞 References
 
@@ -184,4 +184,5 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 <a href="https://github.com/TahsinAyman" target="_blank">![badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="mailto:mail4tahsin@gmail.com" target="_blank">![badge](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-![TahsinAyman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinAyman&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
+![Leetcode](https://leetcard.jacoblin.cool/TahsinAyman?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap)
+
