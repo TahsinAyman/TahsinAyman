@@ -153,6 +153,14 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 - **Full Stack Ltd**
   - 📋 Description: A informative page for a organization
   - 🛠️ Technologies Used: Angular (Old), [CDR](https://npmjs.com/package/create-cdr-app)
+- **CDR (Context Driven Redux)**
+  - 📋 Description: A framework for react
+  - 🛠️ Technologies Used: React, Redux, React-Redux
+  - 🧰: [CDR](https://github.com/TahsinAyman/create-cdr-app)
+- **RFM Analysus of a supermarket**
+  - 📋 Description: A Analysus with PowerBI and MySQL to perform RFM on data
+  - 🛠️ Technologies Used: PowerBI, MySQL
+  - 🧰: [RFM Analysis](https://github.com/TahsinAyman/supermarket_rfm_analysis)
 
 ## 📜 Certifications
 
